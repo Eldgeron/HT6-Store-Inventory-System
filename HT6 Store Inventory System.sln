@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT6 Store Inventory System", "HT6 Store Inventory System.csproj", "{3138E890-EEEF-430C-AAA2-578F2C0960B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3138E890-EEEF-430C-AAA2-578F2C0960B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3138E890-EEEF-430C-AAA2-578F2C0960B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3138E890-EEEF-430C-AAA2-578F2C0960B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3138E890-EEEF-430C-AAA2-578F2C0960B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E39DB23-7471-4073-BA5D-C8AC8CA08330}
+	EndGlobalSection
+EndGlobal
